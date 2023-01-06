@@ -1,5 +1,4 @@
-// @import 'variaveis-e-mixins';
-
+@import "variaveis_e_mixins";
 // Gerais
 @import 'normalize';
 @import 'reset';
@@ -11,3 +10,6 @@
 @import 'produtos';
 @import 'portfolio';
 @import 'contato';
+
+// Responsivo
+@import 'responsivo';
