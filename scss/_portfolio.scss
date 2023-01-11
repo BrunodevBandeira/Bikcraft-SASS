@@ -17,10 +17,10 @@
 }
 
 .quote_clientes cite {
-	font-size: 18px;
 	font-weight: bold;
 	float: right;
 	font-style: normal;
+	@include tipo-1(18);
 }
 
 /*Plugin de Slide*/
